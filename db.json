@@ -1,12 +1,11 @@
 {
-  "products": [
-    {
+  "products": [{
       "id": 1,
       "name": "Product 1",
       "price": 40,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "reviews": [],
-      "imgUrl": "https://i.ibb.co/5GbhrGm/tshirt.png"
+      "imgUrl": "https://i.ibb.co/VTJRw27/Pngtree-t-shirts-2110202.png"
     },
     {
       "id": 2,
